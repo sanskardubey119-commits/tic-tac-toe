@@ -45,12 +45,3 @@ The Hard difficulty uses the **Minimax algorithm** enhanced with **Alpha-Beta Pr
 ```bash
 python main.py
 ```
-
-## 📌 Future Improvements
-
-* Winning cell highlighting
-* Sound effects
-* Dark mode
-* AI move statistics
-* Game history
-* Online multiplayer support
